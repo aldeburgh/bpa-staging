@@ -2,35 +2,22 @@
 
 @font-face {
     font-family: 'mabry-light-pro';
-    src: url('../webfonts/mabry-light-pro.eot');
-    src: url('../webfonts/mabry-light-pro.eot?#iefix') format('embedded-opentype'),
-         url('../webfonts/mabry-light-pro.woff2') format('woff2'),
-         url('../webfonts/mabry-light-pro.woff') format('woff'),
-         url('../webfonts/mabry-light-pro.ttf') format('truetype');
+    src: url('../webfonts/BrittenPearsMabryPro-Light') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'mabry-light-italic-pro';
-    src: url('../webfonts/mabry-light-italic-pro.eot');
-    src: url('../webfonts/mabry-light-italic-pro.eot?#iefix') format('embedded-opentype'),
-         url('../webfonts/mabry-light-italic-pro.woff2') format('woff2'),
-         url('../webfonts/mabry-light-italic-pro.woff') format('woff'),
-         url('../webfonts/mabry-light-italic-pro.ttf') format('truetype');
+    src: url('../webfonts/BrittenPearsMabryPro-LightItalic.otf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'mabry-black-pro';
-    src: url('../webfonts/mabry-black-pro.eot');
-    src: url('../webfonts/mabry-black-pro.eot?#iefix') format('embedded-opentype'),
-         url('../webfonts/mabry-black-pro.woff2') format('woff2'),
-         url('../webfonts/mabry-black-pro.woff') format('woff'),
-         url('../webfonts/mabry-black-pro.ttf') format('truetype');
+    src: url('../webfonts/BrittenPearsMabryPro-Black.otf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
-
 /*
 	Story by Pixelarity
 	pixelarity.com | hello@pixelarity.com
